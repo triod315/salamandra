@@ -1,0 +1,12 @@
+C:\Users\triod315\Desktop\Salamandra\Project_Salamandra\Project_Salamandra\bin\Debug\Project_Salamandra.exe.config
+C:\Users\triod315\Desktop\Salamandra\Project_Salamandra\Project_Salamandra\bin\Debug\Project_Salamandra.exe
+C:\Users\triod315\Desktop\Salamandra\Project_Salamandra\Project_Salamandra\bin\Debug\Project_Salamandra.pdb
+C:\Users\triod315\Desktop\Salamandra\Project_Salamandra\Project_Salamandra\bin\Debug\Newtonsoft.Json.dll
+C:\Users\triod315\Desktop\Salamandra\Project_Salamandra\Project_Salamandra\bin\Debug\Telegram.Bot.dll
+C:\Users\triod315\Desktop\Salamandra\Project_Salamandra\Project_Salamandra\bin\Debug\Newtonsoft.Json.xml
+C:\Users\triod315\Desktop\Salamandra\Project_Salamandra\Project_Salamandra\bin\Debug\Telegram.Bot.xml
+C:\Users\triod315\Desktop\Salamandra\Project_Salamandra\Project_Salamandra\obj\Debug\Project_Salamandra.csprojAssemblyReference.cache
+C:\Users\triod315\Desktop\Salamandra\Project_Salamandra\Project_Salamandra\obj\Debug\Project_Salamandra.csproj.CoreCompileInputs.cache
+C:\Users\triod315\Desktop\Salamandra\Project_Salamandra\Project_Salamandra\obj\Debug\Project_Salamandra.csproj.CopyComplete
+C:\Users\triod315\Desktop\Salamandra\Project_Salamandra\Project_Salamandra\obj\Debug\Project_Salamandra.exe
+C:\Users\triod315\Desktop\Salamandra\Project_Salamandra\Project_Salamandra\obj\Debug\Project_Salamandra.pdb
